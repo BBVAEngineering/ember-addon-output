@@ -18,6 +18,9 @@
 /npm-debug.log*
 /testem.log
 /yarn-error.log
+/tags*
+/.nyc_output
+.DS_Store
 
 # ember-try
 /.node_modules.ember-try/
